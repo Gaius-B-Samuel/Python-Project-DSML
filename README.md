@@ -35,24 +35,24 @@ Used scatter plots to visualize the relationship.
 
 # Graphical Representations
 
-Bar Charts: Used to visualize employee distribution across teams and positions.
-Histograms: Displayed the predominant age group of employees.
-Scatter Plot: Showed a correlation between age and salary.
-Salary Expenditure Charts: Bar charts illustrating which teams and positions have the highest payroll costs.
+- Bar Charts: Used to visualize employee distribution across teams and positions.
+- Histograms: Displayed the predominant age group of employees.
+- Scatter Plot: Showed a correlation between age and salary.
+- Salary Expenditure Charts: Bar charts illustrating which teams and positions have the highest payroll costs.
 
 # Insights Gained
 
-Certain teams have a significantly higher workforce compared to others.
-Specific job positions dominate the company’s structure.
-The majority of employees belong to a particular age group.
-Salary expenditure is unevenly distributed across teams and positions.
-A possible correlation exists between age and salary, indicating experience-based compensation trends.
+- Certain teams have a significantly higher workforce compared to others.
+- Specific job positions dominate the company’s structure.
+- The majority of employees belong to a particular age group.
+- Salary expenditure is unevenly distributed across teams and positions.
+- A possible correlation exists between age and salary, indicating experience-based compensation trends.
 
 # Additional Information
 
-The dataset has been processed and saved as processed_employee_data.csv.
-All analysis and visualizations were performed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
-The project is structured in a Jupyter Notebook format for easy reproducibility.
+- The dataset has been processed and saved as processed_employee_data.csv.
+- All analysis and visualizations were performed using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+- The project is structured in a Jupyter Notebook format for easy reproducibility.
 
 - The repository contains a well-documented notebook explaining each step.
 - 

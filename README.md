@@ -55,7 +55,7 @@ Used scatter plots to visualize the relationship.
 - The project is structured in a Jupyter Notebook format for easy reproducibility.
 
 - The repository contains a well-documented notebook explaining each step.
-- 
+  
 # Tools Used
 
 - Python
